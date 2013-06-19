@@ -1,1 +1,27 @@
-<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/"><container id="A:ARTIST/3%20Doors%20Down" parentID="A:ARTIST" restricted="true"><dc:title>3 Doors Down</dc:title><upnp:class>object.container.person.musicArtist</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/3%20Doors%20Down</res></container><container id="A:ARTIST/a-ha" parentID="A:ARTIST" restricted="true"><dc:title>a-ha</dc:title><upnp:class>object.container.person.musicArtist</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/a-ha</res></container><container id="A:ARTIST/Abba" parentID="A:ARTIST" restricted="true"><dc:title>Abba</dc:title><upnp:class>object.container.person.musicArtist</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/Abba</res></container><container id="A:ARTIST/Agnes%20Obel" parentID="A:ARTIST" restricted="true"><dc:title>Agnes Obel</dc:title><upnp:class>object.container.person.musicArtist</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/Agnes%20Obel</res></container><container id="A:ARTIST/Alanis%20Morissette" parentID="A:ARTIST" restricted="true"><dc:title>Alanis Morissette</dc:title><upnp:class>object.container.person.musicArtist</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/Alanis%20Morissette</res></container></DIDL-Lite>
+<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/">
+  <container id="A:ARTIST/3%20Doors%20Down" parentID="A:ARTIST" restricted="true">
+    <dc:title>3 Doors Down</dc:title>
+    <upnp:class>object.container.person.musicArtist</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/3%20Doors%20Down</res>
+  </container>
+  <container id="A:ARTIST/a-ha" parentID="A:ARTIST" restricted="true">
+    <dc:title>a-ha</dc:title>
+    <upnp:class>object.container.person.musicArtist</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/a-ha</res>
+  </container>
+  <container id="A:ARTIST/Abba" parentID="A:ARTIST" restricted="true">
+    <dc:title>Abba</dc:title>
+    <upnp:class>object.container.person.musicArtist</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/Abba</res>
+  </container>
+  <container id="A:ARTIST/Agnes%20Obel" parentID="A:ARTIST" restricted="true">
+    <dc:title>Agnes Obel</dc:title>
+    <upnp:class>object.container.person.musicArtist</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/Agnes%20Obel</res>
+  </container>
+  <container id="A:ARTIST/Alanis%20Morissette" parentID="A:ARTIST" restricted="true">
+    <dc:title>Alanis Morissette</dc:title>
+    <upnp:class>object.container.person.musicArtist</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST/Alanis%20Morissette</res>
+  </container>
+</DIDL-Lite>

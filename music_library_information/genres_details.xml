@@ -1,1 +1,17 @@
-<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/"><container id="A:GENRE/Classical" parentID="A:GENRE" restricted="true"><dc:title>Classical</dc:title><upnp:class>object.container.genre.musicGenre</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE/Classical</res></container><container id="A:GENRE/Comedy" parentID="A:GENRE" restricted="true"><dc:title>Comedy</dc:title><upnp:class>object.container.genre.musicGenre</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE/Comedy</res></container><container id="A:GENRE/Dance" parentID="A:GENRE" restricted="true"><dc:title>Dance</dc:title><upnp:class>object.container.genre.musicGenre</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE/Dance</res></container></DIDL-Lite>
+<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/">
+  <container id="A:GENRE/Classical" parentID="A:GENRE" restricted="true">
+    <dc:title>Classical</dc:title>
+    <upnp:class>object.container.genre.musicGenre</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE/Classical</res>
+  </container>
+  <container id="A:GENRE/Comedy" parentID="A:GENRE" restricted="true">
+    <dc:title>Comedy</dc:title>
+    <upnp:class>object.container.genre.musicGenre</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE/Comedy</res>
+  </container>
+  <container id="A:GENRE/Dance" parentID="A:GENRE" restricted="true">
+    <dc:title>Dance</dc:title>
+    <upnp:class>object.container.genre.musicGenre</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE/Dance</res>
+  </container>
+</DIDL-Lite>

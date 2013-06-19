@@ -1,1 +1,36 @@
-<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/"><container id="A:ARTIST" parentID="A:" restricted="true"><dc:title>Contributing Artists</dc:title><upnp:class>object.container</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST</res></container><container id="A:ALBUMARTIST" parentID="A:" restricted="true"><dc:title>Artists</dc:title><upnp:class>object.container</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUMARTIST</res></container><container id="A:ALBUM" parentID="A:" restricted="true"><dc:title>Albums</dc:title><upnp:class>object.container.albumlist</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUM</res></container><container id="A:GENRE" parentID="A:" restricted="true"><dc:title>Genres</dc:title><upnp:class>object.container</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE</res></container><container id="A:COMPOSER" parentID="A:" restricted="true"><dc:title>Composers</dc:title><upnp:class>object.container</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER</res></container><container id="A:TRACKS" parentID="A:" restricted="true"><dc:title>Tracks</dc:title><upnp:class>object.container.playlistContainer</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:TRACKS</res></container><container id="A:PLAYLISTS" parentID="A:" restricted="true"><dc:title>Playlists</dc:title><upnp:class>object.container</upnp:class></container></DIDL-Lite>
+<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/">
+  <container id="A:ARTIST" parentID="A:" restricted="true">
+    <dc:title>Contributing Artists</dc:title>
+    <upnp:class>object.container</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ARTIST</res>
+  </container>
+  <container id="A:ALBUMARTIST" parentID="A:" restricted="true">
+    <dc:title>Artists</dc:title>
+    <upnp:class>object.container</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUMARTIST</res>
+  </container>
+  <container id="A:ALBUM" parentID="A:" restricted="true">
+    <dc:title>Albums</dc:title>
+    <upnp:class>object.container.albumlist</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUM</res>
+  </container>
+  <container id="A:GENRE" parentID="A:" restricted="true">
+    <dc:title>Genres</dc:title>
+    <upnp:class>object.container</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:GENRE</res>
+  </container>
+  <container id="A:COMPOSER" parentID="A:" restricted="true">
+    <dc:title>Composers</dc:title>
+    <upnp:class>object.container</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER</res>
+  </container>
+  <container id="A:TRACKS" parentID="A:" restricted="true">
+    <dc:title>Tracks</dc:title>
+    <upnp:class>object.container.playlistContainer</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:TRACKS</res>
+  </container>
+  <container id="A:PLAYLISTS" parentID="A:" restricted="true">
+    <dc:title>Playlists</dc:title>
+    <upnp:class>object.container</upnp:class>
+  </container>
+</DIDL-Lite>

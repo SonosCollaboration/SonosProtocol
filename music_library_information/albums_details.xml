@@ -1,1 +1,16 @@
-<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/"><container id="A:ALBUM/...and%20Justice%20for%20All" parentID="A:ALBUM" restricted="true"><dc:title>...and Justice for All</dc:title><upnp:class>object.container.album.musicAlbum</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUM/...and%20Justice%20for%20All</res><dc:creator>Metallica</dc:creator><upnp:albumArtURI>/getaa?u=x-file-cifs%3a%2f%2fTLE-SERVER%2fshare%2fogg%2fMetallica%2520-%2520and%2520Justice%2520for%2520All%2f01%2520-%2520Blackened.ogg&amp;v=2</upnp:albumArtURI></container><container id="A:ALBUM/...But%20Seriously" parentID="A:ALBUM" restricted="true"><dc:title>...But Seriously</dc:title><upnp:class>object.container.album.musicAlbum</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUM/...But%20Seriously</res><dc:creator>Phil Collins</dc:creator><upnp:albumArtURI>/getaa?u=x-file-cifs%3a%2f%2fTLE-SERVER%2fshare%2fogg%2fPhil%2520Collins%2520-%2520But%2520Seriously%2f01%2520-%2520Hang%2520in%2520Long%2520Enough.ogg&amp;v=2</upnp:albumArtURI></container></DIDL-Lite>
+<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/">
+  <container id="A:ALBUM/...and%20Justice%20for%20All" parentID="A:ALBUM" restricted="true">
+    <dc:title>...and Justice for All</dc:title>
+    <upnp:class>object.container.album.musicAlbum</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUM/...and%20Justice%20for%20All</res>
+    <dc:creator>Metallica</dc:creator>
+    <upnp:albumArtURI>/getaa?u=x-file-cifs%3a%2f%2fTLE-SERVER%2fshare%2fogg%2fMetallica%2520-%2520and%2520Justice%2520for%2520All%2f01%2520-%2520Blackened.ogg&amp;v=2</upnp:albumArtURI>
+  </container>
+  <container id="A:ALBUM/...But%20Seriously" parentID="A:ALBUM" restricted="true">
+    <dc:title>...But Seriously</dc:title>
+    <upnp:class>object.container.album.musicAlbum</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:ALBUM/...But%20Seriously</res>
+    <dc:creator>Phil Collins</dc:creator>
+    <upnp:albumArtURI>/getaa?u=x-file-cifs%3a%2f%2fTLE-SERVER%2fshare%2fogg%2fPhil%2520Collins%2520-%2520But%2520Seriously%2f01%2520-%2520Hang%2520in%2520Long%2520Enough.ogg&amp;v=2</upnp:albumArtURI>
+  </container>
+</DIDL-Lite>

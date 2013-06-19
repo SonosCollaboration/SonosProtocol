@@ -1,1 +1,17 @@
-<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/"><container id="A:COMPOSER/Alicia%20Keys" parentID="A:COMPOSER" restricted="true"><dc:title>Alicia Keys</dc:title><upnp:class>object.container</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER/Alicia%20Keys</res></container><container id="A:COMPOSER/Alicia%20Keys%2fErika%20Rose" parentID="A:COMPOSER" restricted="true"><dc:title>Alicia Keys/Erika Rose</dc:title><upnp:class>object.container</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER/Alicia%20Keys%2fErika%20Rose</res></container><container id="A:COMPOSER/Alicia%20Keys%2fJermaine%20Dupri%2fJoshua%20Thompson" parentID="A:COMPOSER" restricted="true"><dc:title>Alicia Keys/Jermaine Dupri/Joshua Thompson</dc:title><upnp:class>object.container</upnp:class><res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER/Alicia%20Keys%2fJermaine%20Dupri%2fJoshua%20Thompson</res></container></DIDL-Lite>
+<DIDL-Lite xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:upnp="urn:schemas-upnp-org:metadata-1-0/upnp/" xmlns:r="urn:schemas-rinconnetworks-com:metadata-1-0/" xmlns="urn:schemas-upnp-org:metadata-1-0/DIDL-Lite/">
+  <container id="A:COMPOSER/Alicia%20Keys" parentID="A:COMPOSER" restricted="true">
+    <dc:title>Alicia Keys</dc:title>
+    <upnp:class>object.container</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER/Alicia%20Keys</res>
+  </container>
+  <container id="A:COMPOSER/Alicia%20Keys%2fErika%20Rose" parentID="A:COMPOSER" restricted="true">
+    <dc:title>Alicia Keys/Erika Rose</dc:title>
+    <upnp:class>object.container</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER/Alicia%20Keys%2fErika%20Rose</res>
+  </container>
+  <container id="A:COMPOSER/Alicia%20Keys%2fJermaine%20Dupri%2fJoshua%20Thompson" parentID="A:COMPOSER" restricted="true">
+    <dc:title>Alicia Keys/Jermaine Dupri/Joshua Thompson</dc:title>
+    <upnp:class>object.container</upnp:class>
+    <res protocolInfo="x-rincon-playlist:*:*:*">x-rincon-playlist:RINCON_000E5884455C01400#A:COMPOSER/Alicia%20Keys%2fJermaine%20Dupri%2fJoshua%20Thompson</res>
+  </container>
+</DIDL-Lite>
