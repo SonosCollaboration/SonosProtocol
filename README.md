@@ -8,7 +8,22 @@ The Sonos communication protocol is not publicly shared. This means that all the
 Workflow and structure
 ----------------------
 
-The main avenue of work will be the [repository wiki](https://github.com/SonosCollaboration/SonosProtocol/wiki). The repository itself will be used only for data files like raw network protocol dumps or in and output xml files.
+The main avenue of work will be the
+[repository wiki](https://github.com/SonosCollaboration/SonosProtocol/wiki). The
+repository itself will be used only for data files like raw network
+protocol dumps or in and output xml files.
+
+**No programming language specific implementation examples please.**
+  Examples of the content that is sent back and forth, like e.g. the
+  XML, is of course very welcome and required both on the wiki and in
+  the repository. But in order to keep this documentation project
+  programming language and project independent, you are asked to
+  please not include any programming language specific example
+  implementations. The only exception to this is the
+  [General Structure](https://github.com/SonosCollaboration/SonosProtocol/wiki/Generel-structure),
+  wherein we will try to get as many code examples as possible, to get
+  people started. Please comply with this guide line to avoid
+  potential contributors getting a wrong idea of favoritism.
 
 Get involved
 ------------
