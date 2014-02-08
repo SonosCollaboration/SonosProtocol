@@ -1,9 +1,9 @@
 SonosProtocol
 =============
 
-This project has been created so that it can work as a gathering place for anyone involved with open source projects that aim to communicate with Sonos devices.
+This project has been created so that it can work as a gathering place for anyone involved with open source projects that aim to communicate with Sonos® devices.
 
-The Sonos communication protocol is not publicly shared. This means that all the information that is available about it in open source projects, has been retrieved with network protocol analyzers. This is a tedious process and therefore this project has been created as a place to share this information, so that not everybody has to get it for themselves.
+The Sonos® communication protocol is not publicly shared. This means that all the information that is available about it in open source projects, has been retrieved with network protocol analyzers and from the Sonos® information pages on the devices themselves. This is a tedious process and therefore this project has been created as a place to share this information, so that not everybody has to get it for themselves.
 
 Workflow and structure
 ----------------------
@@ -19,11 +19,12 @@ protocol dumps or in and output xml files.
   the repository. But in order to keep this documentation project
   programming language and project independent, you are asked to
   please not include any programming language specific example
-  implementations. The only exception to this is the
-  [General Structure](https://github.com/SonosCollaboration/SonosProtocol/wiki/Generel-structure),
+  implementations. The only exception to this, is the [General
+  Structure](https://github.com/SonosCollaboration/SonosProtocol/wiki/Generel-structure),
   wherein we will try to get as many code examples as possible, to get
-  people started. Please comply with this guide line to avoid
-  potential contributors getting a wrong idea of favoritism.
+  people started, and scripts to generate wiki content. Please comply
+  with this guide line to avoid potential contributors getting a wrong
+  idea of favoritism.
 
 Get involved
 ------------
